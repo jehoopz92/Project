@@ -4,9 +4,9 @@ html{
 }
 body{
   font-family: 'Indie Flower', cursive;
-font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', cursive;
   margin: 0;
-  background: #62B5FA ;
+  background-image: url("./resource/images/Android2.jpg");
 }
 header {
 width: 100%;
