@@ -6,7 +6,9 @@ body{
   font-family: 'Indie Flower', cursive;
 font-family: 'Pacifico', cursive;
   margin: 0;
-  background: #62B5FA ;
+  background-image: url(Resources/Images/sea.jpg);
+      
+  
 }
 header {
 width: 100%;
@@ -21,8 +23,8 @@ background: #ffffff ;
 }
 
 .logo {
-height: 50px;
-width: 50px;
+height: 65px;
+width: 60px;
 text-align: center;
 border-radius: 50%;
 display: inline-block;
@@ -53,6 +55,7 @@ background: #f2f2f2 ;
   display: table-cell;
   vertical-align: middle;
   float:left;
+    
 }
 
 .drop_menu li a {
@@ -73,4 +76,31 @@ color: #62b5fa;
 .page_content{
 margin-top: 120px;
 margin: 5;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-family: fantasy; 
+}
+h2 {
+    text-align: center;
+    color: aliceblue;
+    clear: both;
+}
+
+div {
+    float: left;
+    clear: both;
+    
+    
+}
+
+.my_blogs {
+    text-align: center;
 }
